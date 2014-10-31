@@ -14,6 +14,8 @@ public class EscapeCharacter {
 		out.println("win not\b\b\byes"); // win yes
 		out.println("line\findented"); // line
 		                               //     indented 
+		out.println("line\f\b\bindented"); // line
+		                                   //   indented 
 	}
 
 }
