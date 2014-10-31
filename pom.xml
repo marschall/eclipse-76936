@@ -21,6 +21,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <configuration>
           <mainClass>com.github.marschall.eclipse7693.EscapeCharacter</mainClass>
+          <!-- <mainClass>com.github.marschall.eclipse7693.BackTrack</mainClass> -->
         </configuration>
       </plugin>
     </plugins>
