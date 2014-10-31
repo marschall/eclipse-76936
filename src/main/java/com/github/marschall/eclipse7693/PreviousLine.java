@@ -8,7 +8,7 @@ public class PreviousLine {
   public static void main(String[] args) throws InterruptedException {
     out.print("aaa");
     out.flush();
-    Thread.sleep(SECONDS.toMillis(1L));
+    Thread.sleep(SECONDS.toMillis(2L));
     out.println("\rxxx");
 
   }
